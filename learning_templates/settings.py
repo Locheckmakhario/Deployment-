@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_*e-h!c1l%x-*_24svv!vcbwuz5^7=(^fhty3p%f2(5!se+c!i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Makhario.pythonanywhere.com' ]
+ALLOWED_HOSTS = ['makhario.pythonanywhere.com' ]
 
 
 # Application definition
